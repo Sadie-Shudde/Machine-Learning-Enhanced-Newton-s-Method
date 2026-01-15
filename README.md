@@ -2,7 +2,7 @@
 This projects aims to see how classical root-finding methods compare to each other, and how they to Machine-Learning (ML) enhanced versions. The classical methods used consist of Bisection, Secant, and Newton-Raphson. The first ML enhanced version is Newton-Raphson were the ML model predicts better initial guesses.
 
 
-Abstract. Root-finding algorithms are fundamental in the field of numerical
+Abstract: Root-finding algorithms are fundamental in the field of numerical
 analysis. There are several different methods commonly used, and Newton-
 Raphson, also known as Newton’s method, is one of them. It is used for its very
 quick quadratic convergence near the root. However, Newton’s performance
